@@ -75,7 +75,7 @@
     "@types/whatwg-mimetype": "2.1.1",
     "@typescript-eslint/eslint-plugin": "5.30.7",
     "@typescript-eslint/parser": "5.30.7",
-    "@vendia/serverless-express": "4.9.0",
+    "@vendia/serverless-express": "4.10.0",
     "awaiting": "3.0.0",
     "body-parser": "1.20.0",
     "codecov": "3.8.3",
